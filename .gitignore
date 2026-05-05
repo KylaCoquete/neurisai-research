@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+data/raw/
+models/weights/*.bin
+models/weights/*.pt
+*.log
+.ipynb_checkpoints/
